@@ -11,9 +11,9 @@ echo "Cloning Hals"
 
 git clone git@github.com:Jasmine-Wayne-4-19/android_hardware_qcom_display.git -b sdm660-4.19 hardware/qcom-caf/msm8998/display
 
-git clone git@github.com:Jasmine-Wayne-4-19/android_hardware_qcom_audio.git -b sdm660-4.19 hardware/qcom-caf/msm8998/audio
+git clone git@github.com:Jasmine-Wayne-4-19/android_hardware_qcom_audio.git -b sdm660-4.19-R hardware/qcom-caf/msm8998/audio
 
-git clone git@github.com:Jasmine-Wayne-4-19/android_hardware_qcom_media.git -b sdm660-4.19 hardware/qcom-caf/msm8998/media
+git clone git@github.com:Jasmine-Wayne-4-19/android_hardware_qcom_media.git -b sdm660-4.19-R hardware/qcom-caf/msm8998/media
 
 echo "Cloning device stuffs"
 
