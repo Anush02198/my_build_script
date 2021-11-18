@@ -19,6 +19,8 @@ echo "Cloning device stuffs"
 
 git clone git@github.com:Jasmine-Wayne-4-19/android_device_xiaomi_sdm660_common_4.19.git -b 11 device/xiaomi/sdm660-common
 
+git clone git@github.com:Jasmine-Wayne-4-19/android_device_xiaomi_wayne_common_4.19.git -b 11 device/xiaomi/wayne-common
+
 git clone git@github.com:Jasmine-Wayne-4-19/android_kernel_xiaomi_sdm660_4.19.git -b 11 kernel/xiaomi/sdm660
 
 git clone git@github.com:Jasmine-Wayne-4-19/android_vendor_xiaomi_sdm660_common_4.19.git -b 11 vendor/xiaomi/sdm660-common
